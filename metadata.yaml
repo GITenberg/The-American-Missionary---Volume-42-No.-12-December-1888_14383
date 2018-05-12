@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14383#The-American-Missionary---Volume-42-No.-12-December-1888
 gutenberg_bookshelf: The American Missionary
 gutenberg_issued: '2004-12-20'
 gutenberg_type: Text
